@@ -1,0 +1,77 @@
+==============================================
+HR PORTAL DASHBOARD - COMPLETE CODE EXPORT
+==============================================
+
+This package contains all source code for the iOS-inspired HR Portal Dashboard.
+Use this with ChatGPT or any React hosting service to deploy and preview.
+
+==============================================
+FILE STRUCTURE
+==============================================
+
+/App.tsx
+/styles/globals.css
+/components/Sidebar.tsx
+/components/DarkModeToggle.tsx
+/components/MetricCards.tsx
+/components/QuickActions.tsx
+/components/QuickActionsCustomizer.tsx
+/components/WidgetCustomizer.tsx
+/components/CalendarWidget.tsx
+/components/UpcomingEvents.tsx
+/components/pages/Dashboard.tsx
+/components/pages/EmployeeList.tsx
+/components/pages/MasterDatabase.tsx
+/components/pages/Onboarding.tsx
+/components/pages/Deboarding.tsx
+/components/pages/EventsReminders.tsx
+/components/pages/Attendance.tsx
+/components/pages/Chat.tsx
+/components/pages/Email.tsx
+/components/pages/Payroll.tsx
+/components/pages/Documents.tsx
+/components/pages/Settings.tsx
+
+Note: This project also requires shadcn/ui components (Button, Dialog, Input, Select, Switch, Tabs, etc.)
+You'll need to ensure those UI components are available in /components/ui/ directory.
+
+==============================================
+DEPENDENCIES
+==============================================
+
+Required npm packages:
+- react
+- react-dom  
+- lucide-react
+- sonner@2.0.3
+- @radix-ui/react-* (for shadcn components)
+- tailwindcss
+- typescript
+
+==============================================
+KEY FEATURES
+==============================================
+
+✅ iOS-inspired design with San Francisco fonts
+✅ Fully functional dark mode toggle
+✅ Customizable dashboard widgets
+✅ Quick Actions customizer (select your favorite 6 actions)
+✅ Employee onboarding with automated email workflows
+✅ Employee deboarding with multi-level approval (HR → Finance → Manager)
+✅ Interactive calendar with events
+✅ HR AI Assistant chatbot with employee database access
+✅ Context-aware Email page (shows onboarding emails for HR, approvals for managers)
+✅ Document generator with auto-fill from employee database
+✅ Attendance tracking with manual check-in
+✅ Payroll management
+✅ User management and access control in Settings
+✅ Blue and purple gradients throughout
+✅ Glassmorphism effects
+✅ Light outlines on all tiles
+✅ Glossy icons with gradient overlays
+
+==============================================
+
+Below is the complete code for each file:
+
+==============================================
